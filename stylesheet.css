@@ -1,0 +1,85 @@
+.container {
+    margin: 0 auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 1440px;
+    ont-family: Tahoma,sans-serif;
+    font-size: 12px;
+    line-height: 1.42857143;
+    color: #8f8f8f;
+    background-color: #f8f8f8;
+}
+.Huynja{
+    display: flex;
+    background-color: rgb(247, 233, 233);
+    justify-content: flex-end;
+    padding: 20px 0;
+}
+.ulclas {
+    display: flex;
+    background-color: chartreuse;
+    justify-content: space-around;
+    border: 1px solid black;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    list-style: none;   
+    text-transform: uppercase;
+    font: 14px Oswald,sans-serif; 
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.aboutus {
+    border: 1px solid black;
+    border-collapse: separate;
+    list-style: square;
+    display: flex;
+    flex-direction: column;
+    line-height: 30px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    
+    
+}
+.ouroffice {
+    width: 200px;
+    font: 14px Oswald,sans-serif;
+    text-transform: uppercase;
+    padding: 10px;
+        color: #fff;
+        background-color: #29c5e6;
+        border-color: #e7e7e7;
+    }
+   
+}
+
+}
+h1{
+    display: inline-block;
+    color: #7e7e7e;
+    font: 400 40px/40px Oswald,sans-serif;
+    background: url(../img/bg.png);
+    margin: 0;
+    padding: 0 10px;
+    text-transform: uppercase;  
+}
+h2 {
+        background: #29c5e6;
+        color: #fff;
+        font: 300 30px Oswald,sans-serif;
+        padding: 0 10px;
+        text-transform: uppercase;
+    }
+.row {
+        margin-left: -15px;
+        margin-right: -15px;
+        margin-top: 20px;
+        padding-left: 15px;
+        padding-right: 15px; 
+        display: flex;
+        flex-wrap:wrap ;
+       
+}
+.item {
+    
+}         
